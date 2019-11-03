@@ -1,0 +1,9 @@
+csv_files/*
+node_modules
+results/*
+!results/byCafe
+results/byCafe/*
+html
+js/makeHtmlTable.js
+js/globalVariables.js
+deleteFiles.js
